@@ -447,6 +447,9 @@ section.two-about {
  padding-bottom: 7rem;
  padding-inline: 1rem;
 
+ img {
+  border-radius: 100vw;
+ }
  .slider-container {
   gap: 1rem;
 
